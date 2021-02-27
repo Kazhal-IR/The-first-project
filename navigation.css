@@ -2,8 +2,12 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color: grey;
+    width: 25%;
+
+    background-color:#f1f1f1;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
     border: 1px solid #555; 
 }
 li a {
